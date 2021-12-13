@@ -1,0 +1,20 @@
+body {
+	font-family: 'Inconsolata', cursive;
+	font-size: 15px;
+	background-color:#4e2583;
+	color: white;
+}
+h1 {
+	font-size: 40px;
+	background-color: white;
+	color:#4e2583;
+}
+h2 {
+	font-size: 20px;
+}
+table, th, td {
+	vertical-align: top;
+	background-color: white;
+	border: 1px solid black;
+	color: black;
+}
